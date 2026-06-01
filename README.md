@@ -68,7 +68,7 @@ PROJECT STRUCTURE
 Retail-Sales-SQL-Analysis
 |-- README.txt
 |-- retail_sales.sql
-|-- retail_sales_dataset.csv
+|-- retail_sales_dataset
 
 
 AUTHOR
